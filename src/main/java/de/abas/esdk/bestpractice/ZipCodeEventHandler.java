@@ -18,7 +18,6 @@ public class ZipCodeEventHandler {
 		ZipCodeValidator validator = new ZipCodeValidator();
 		if (!validator.isGermanZipCode(zipCode)) {
 			throw new EventException(String.format("invalid German zipCode '%s'", zipCode), 1);
-			System.out.println("Test");
 		}
 	}
 }
