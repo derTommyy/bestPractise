@@ -1,0 +1,17 @@
+:docinfo:
+= bestPractise
+Documentation
+:nofooter:
+
+This document describes the bestPractise app.
+
+include::subpage.adoc[]
+
+include::additionalpage.adoc[]
+
+== About
+
+bestPractise +
+(C) Your Company
+
+https://your-website.com/
